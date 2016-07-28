@@ -1,0 +1,5 @@
+recursive-include PPStyleComSys0716 *
+include *.txt
+include *.rst
+recursive-include docs *
+global-exclude *pyc
